@@ -1,2 +1,1 @@
-# API-Project
- 
+Project using ``Django-Restframework``
